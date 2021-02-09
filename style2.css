@@ -1,0 +1,22 @@
+
+h1 {
+    color: #FF0000;
+    font-weight: bold;
+}
+.azul {
+    color: #0000FF;
+}
+.Naranja {
+    color: orange;
+}
+.centrado {
+    margin: auto;
+    width: 50%;
+}
+.azulNegrilla {
+    font-weight: bold;
+    color: #0000FF;
+    margin: auto;
+    width: 50%;
+}
+

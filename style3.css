@@ -1,0 +1,10 @@
+h2 {
+    color: #0000FF;
+    background-color: pink;
+}
+p {
+    margin: auto;
+    border: auto;
+    padding: auto;
+    width: 50%;
+}
